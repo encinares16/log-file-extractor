@@ -1,0 +1,760 @@
+<log realm="channel/10.9.40.3:55670" at="Wed Jul 10 09:48:12 PST 2024.808" lifespan="68ms">
+  <receive>
+    <isomsg direction="incoming">
+      <!-- org.jpos.iso.packager.XMLPackager -->
+      <field id="0" value="0600"/>
+      <field id="2" value="2419-2014-8474"/>
+      <field id="22" value="1"/>
+      <field id="23" value="2003"/>
+      <field id="55" value="1.2.0.0"/>
+    </isomsg>
+  </receive>
+</log>
+<log realm="channel/192.168.18.24:10000" at="Wed Jul 10 09:48:12 PST 2024.847" lifespan="6ms">
+  <send>
+    <isomsg>
+      <!-- org.jpos.iso.packager.XMLPackager -->
+      <field id="0" value="0600"/>
+      <field id="2" value="2419-2014-8474"/>
+      <field id="22" value="1"/>
+      <field id="23" value="2003"/>
+      <field id="26" value="10.9.40.3"/>
+      <field id="55" value="1.2.0.0"/>
+    </isomsg>
+  </send>
+</log>
+<log realm="channel/192.168.18.24:10000" at="Wed Jul 10 09:48:12 PST 2024.881" lifespan="10ms">
+  <receive>
+    <isomsg direction="incoming">
+      <!-- org.jpos.iso.packager.XMLPackager -->
+      <field id="0" value="0600"/>
+      <field id="2" value="2419-2014-8474"/>
+      <field id="4" value="693000"/>
+      <field id="10" value="7000"/>
+      <field id="11" value="Kiosk_GCASH"/>
+      <field id="12" value="09688532239"/>
+      <field id="13" value="Kiosk_GCASHMux"/>
+      <field id="14" value="ab123e679fb19a6fccc3a9fc8f300291d8277743"/>
+      <field id="16" value="Kiosk_GCASH"/>
+      <field id="22" value="1"/>
+      <field id="23" value="2003"/>
+      <field id="26" value="10.9.40.3"/>
+      <field id="35" value="--------------------------------|This transaction is|non-refundable. For inquiries,|kindly call 2882 for mobile or|(02) 7392882 for landline.||ECPAY 24/7 SUPPORT:|02-76165851/|0917-72-ECPAY (0917-72-32729)|0919-08-ECPAY (0919-08-32729)|ecpay@7-eleven.com.ph"/>
+      <field id="36" value="APP: GCASH CASH IN Transaction"/>
+      <field id="49" value="{&quot;mobileNumber&quot;:&quot;09688532239&quot;, &quot;clientid&quot;:&quot;7eleven&quot;, &quot;password&quot;:&quot;7011&quot;}"/>
+      <field id="50" value="Y"/>
+      <field id="55" value="1.2.0.0"/>
+      <field id="57" value="9000000000004"/>
+      <field id="59" value="SALES"/>
+      <field id="60" value="0"/>
+      <field id="61" value="0"/>
+      <field id="62" value="N"/>
+    </isomsg>
+  </receive>
+</log>
+<log realm="channel/127.0.0.1:38668" at="Wed Jul 10 09:48:12 PST 2024.915" lifespan="19ms">
+  <receive>
+    <isomsg direction="incoming">
+      <!-- org.jpos.iso.packager.XMLPackager -->
+      <field id="0" value="0600"/>
+      <field id="2" value="2419-2014-8474"/>
+      <field id="4" value="693000"/>
+      <field id="10" value="7000"/>
+      <field id="11" value="Kiosk_GCASH"/>
+      <field id="12" value="09688532239"/>
+      <field id="13" value="Kiosk_GCASHMux"/>
+      <field id="14" value="ab123e679fb19a6fccc3a9fc8f300291d8277743"/>
+      <field id="16" value="Kiosk_GCASH"/>
+      <field id="22" value="1"/>
+      <field id="23" value="2003"/>
+      <field id="26" value="10.9.40.3"/>
+      <field id="35" value="--------------------------------|This transaction is|non-refundable. For inquiries,|kindly call 2882 for mobile or|(02) 7392882 for landline.||ECPAY 24/7 SUPPORT:|02-76165851/|0917-72-ECPAY (0917-72-32729)|0919-08-ECPAY (0919-08-32729)|ecpay@7-eleven.com.ph"/>
+      <field id="36" value="APP: GCASH CASH IN Transaction"/>
+      <field id="49" value="{&quot;mobileNumber&quot;:&quot;09688532239&quot;, &quot;clientid&quot;:&quot;7eleven&quot;, &quot;password&quot;:&quot;7011&quot;}"/>
+      <field id="50" value="Y"/>
+      <field id="55" value="1.2.0.0"/>
+      <field id="57" value="9000000000004"/>
+      <field id="59" value="SALES"/>
+      <field id="60" value="0"/>
+      <field id="61" value="0"/>
+      <field id="62" value="N"/>
+    </isomsg>
+  </receive>
+</log>
+<log realm="channel/127.0.0.1:10081" at="Wed Jul 10 09:48:12 PST 2024.918" lifespan="9ms">
+  <send>
+    <isomsg>
+      <!-- org.jpos.iso.packager.XMLPackager -->
+      <field id="0" value="0600"/>
+      <field id="2" value="2419-2014-8474"/>
+      <field id="4" value="693000"/>
+      <field id="10" value="7000"/>
+      <field id="11" value="Kiosk_GCASH"/>
+      <field id="12" value="09688532239"/>
+      <field id="13" value="Kiosk_GCASHMux"/>
+      <field id="14" value="ab123e679fb19a6fccc3a9fc8f300291d8277743"/>
+      <field id="16" value="Kiosk_GCASH"/>
+      <field id="22" value="1"/>
+      <field id="23" value="2003"/>
+      <field id="26" value="10.9.40.3"/>
+      <field id="35" value="--------------------------------|This transaction is|non-refundable. For inquiries,|kindly call 2882 for mobile or|(02) 7392882 for landline.||ECPAY 24/7 SUPPORT:|02-76165851/|0917-72-ECPAY (0917-72-32729)|0919-08-ECPAY (0919-08-32729)|ecpay@7-eleven.com.ph"/>
+      <field id="36" value="APP: GCASH CASH IN Transaction"/>
+      <field id="49" value="{&quot;mobileNumber&quot;:&quot;09688532239&quot;, &quot;clientid&quot;:&quot;7eleven&quot;, &quot;password&quot;:&quot;7011&quot;}"/>
+      <field id="50" value="Y"/>
+      <field id="55" value="1.2.0.0"/>
+      <field id="57" value="9000000000004"/>
+      <field id="59" value="SALES"/>
+      <field id="60" value="0"/>
+      <field id="61" value="0"/>
+      <field id="62" value="N"/>
+    </isomsg>
+  </send>
+</log>
+<log realm="request-listener" at="Wed Jul 10 09:48:12 PST 2024.924" lifespan="6ms">
+  <REQUEST payID="2419-2014-8474">
+    https://partner-blue-api.mynt.xyz/seveneleven/api/cashin?sevenConnectId=2419-2014-8474&type=VALIDATE&merchantRef=09688532239&amount=6930.00&token=ab123e679fb19a6fccc3a9fc8f300291d8277743&payLoad=%7B%22mobileNumber%22%3A%2209688532239%22%2C+%22clientid%22%3A%227eleven%22%2C+%22password%22%3A%227011%22%7D&paymentDetails=%7B%22payID%22%3A%222419-2014-8474%22%2C+%22store%22%3A%222003%22%2C+%22pos%22%3A%221%22%7D
+  </REQUEST payID="2419-2014-8474">
+</log>
+<log realm="request-listener" at="Wed Jul 10 09:48:13 PST 2024.361" lifespan="3ms">
+  <RESPONSE payID="2419-2014-8474">
+
+?type=VALIDATE&merchantID=Kiosk_GCASH&merchantRef=09688532239&amount=6930.00&responseCode=SUCCESS&authCode=0019019973544&responseDesc=Transaction+created&token=13e643cd744c9299a24774f756dddd63cbec865d
+  </RESPONSE payID="2419-2014-8474">
+</log>
+<log realm="channel/127.0.0.1:10081" at="Wed Jul 10 09:48:13 PST 2024.366" lifespan="308ms">
+  <receive>
+    <isomsg direction="incoming">
+      <!-- org.jpos.iso.packager.XMLPackager -->
+      <field id="0" value="0610"/>
+      <field id="2" value="2419-2014-8474"/>
+      <field id="4" value="693000"/>
+      <field id="10" value="7000"/>
+      <field id="11" value="Kiosk_GCASH"/>
+      <field id="12" value="09688532239"/>
+      <field id="13" value="Kiosk_GCASHMux"/>
+      <field id="14" value="ab123e679fb19a6fccc3a9fc8f300291d8277743"/>
+      <field id="15" value="13e643cd744c9299a24774f756dddd63cbec865d"/>
+      <field id="16" value="Kiosk_GCASH"/>
+      <field id="22" value="1"/>
+      <field id="23" value="2003"/>
+      <field id="26" value="10.9.40.3"/>
+      <field id="31" value="0019019973544"/>
+      <field id="32" value="SUCCESS"/>
+      <field id="33" value="Transaction created"/>
+      <field id="35" value="--------------------------------|This transaction is|non-refundable. For inquiries,|kindly call 2882 for mobile or|(02) 7392882 for landline.||ECPAY 24/7 SUPPORT:|02-76165851/|0917-72-ECPAY (0917-72-32729)|0919-08-ECPAY (0919-08-32729)|ecpay@7-eleven.com.ph"/>
+      <field id="36" value="APP: GCASH CASH IN Transaction"/>
+      <field id="49" value="{&quot;mobileNumber&quot;:&quot;09688532239&quot;, &quot;clientid&quot;:&quot;7eleven&quot;, &quot;password&quot;:&quot;7011&quot;}"/>
+      <field id="50" value="Y"/>
+      <field id="55" value="1.2.0.0"/>
+      <field id="57" value="9000000000004"/>
+      <field id="59" value="SALES"/>
+      <field id="60" value="0"/>
+      <field id="61" value="0"/>
+      <field id="62" value="N"/>
+    </isomsg>
+  </receive>
+</log>
+<log realm="channel/127.0.0.1:38668" at="Wed Jul 10 09:48:13 PST 2024.370" lifespan="9ms">
+  <send>
+    <isomsg>
+      <!-- org.jpos.iso.packager.XMLPackager -->
+      <field id="0" value="0610"/>
+      <field id="2" value="2419-2014-8474"/>
+      <field id="4" value="693000"/>
+      <field id="10" value="7000"/>
+      <field id="11" value="Kiosk_GCASH"/>
+      <field id="12" value="09688532239"/>
+      <field id="13" value="Kiosk_GCASHMux"/>
+      <field id="14" value="ab123e679fb19a6fccc3a9fc8f300291d8277743"/>
+      <field id="15" value="13e643cd744c9299a24774f756dddd63cbec865d"/>
+      <field id="16" value="Kiosk_GCASH"/>
+      <field id="22" value="1"/>
+      <field id="23" value="2003"/>
+      <field id="26" value="10.9.40.3"/>
+      <field id="31" value="0019019973544"/>
+      <field id="32" value="SUCCESS"/>
+      <field id="33" value="Transaction created"/>
+      <field id="35" value="--------------------------------|This transaction is|non-refundable. For inquiries,|kindly call 2882 for mobile or|(02) 7392882 for landline.||ECPAY 24/7 SUPPORT:|02-76165851/|0917-72-ECPAY (0917-72-32729)|0919-08-ECPAY (0919-08-32729)|ecpay@7-eleven.com.ph"/>
+      <field id="36" value="APP: GCASH CASH IN Transaction"/>
+      <field id="49" value="{&quot;mobileNumber&quot;:&quot;09688532239&quot;, &quot;clientid&quot;:&quot;7eleven&quot;, &quot;password&quot;:&quot;7011&quot;}"/>
+      <field id="50" value="Y"/>
+      <field id="55" value="1.2.0.0"/>
+      <field id="57" value="9000000000004"/>
+      <field id="59" value="SALES"/>
+      <field id="60" value="0"/>
+      <field id="61" value="0"/>
+      <field id="62" value="N"/>
+    </isomsg>
+  </send>
+</log>
+<log realm="request-listener" at="Wed Jul 10 09:48:13 PST 2024.395" lifespan="6ms">
+  <SEND TO MERCHANT II>
+    *** Send To Merchant II: [Wed Jul 10 09:48:13 PST 2024 | 0600 | Kiosk_GCASH | 2419-2014-8474] *** : 0.4832349 seconds
+  </SEND TO MERCHANT II>
+</log>
+<log realm="channel/192.168.18.24:10000" at="Wed Jul 10 09:48:13 PST 2024.399" lifespan="1ms">
+  <send>
+    <isomsg>
+      <!-- org.jpos.iso.packager.XMLPackager -->
+      <field id="0" value="0600"/>
+      <field id="2" value="2419-2014-8474"/>
+      <field id="4" value="693000"/>
+      <field id="10" value="7000"/>
+      <field id="11" value="Kiosk_GCASH"/>
+      <field id="12" value="09688532239"/>
+      <field id="13" value="Kiosk_GCASHMux"/>
+      <field id="14" value="ab123e679fb19a6fccc3a9fc8f300291d8277743"/>
+      <field id="15" value="13e643cd744c9299a24774f756dddd63cbec865d"/>
+      <field id="16" value="Kiosk_GCASH"/>
+      <field id="22" value="1"/>
+      <field id="23" value="2003"/>
+      <field id="26" value="10.9.40.3"/>
+      <field id="31" value="0019019973544"/>
+      <field id="32" value="SUCCESS"/>
+      <field id="33" value="Transaction created"/>
+      <field id="35" value="--------------------------------|This transaction is|non-refundable. For inquiries,|kindly call 2882 for mobile or|(02) 7392882 for landline.||ECPAY 24/7 SUPPORT:|02-76165851/|0917-72-ECPAY (0917-72-32729)|0919-08-ECPAY (0919-08-32729)|ecpay@7-eleven.com.ph"/>
+      <field id="36" value="APP: GCASH CASH IN Transaction"/>
+      <field id="49" value="{&quot;mobileNumber&quot;:&quot;09688532239&quot;, &quot;clientid&quot;:&quot;7eleven&quot;, &quot;password&quot;:&quot;7011&quot;}"/>
+      <field id="50" value="Y"/>
+      <field id="55" value="1.2.0.0"/>
+      <field id="57" value="9000000000004"/>
+      <field id="59" value="SALES"/>
+      <field id="60" value="0"/>
+      <field id="61" value="0"/>
+      <field id="62" value="N"/>
+    </isomsg>
+  </send>
+</log>
+<log realm="channel/192.168.18.24:10000" at="Wed Jul 10 09:48:13 PST 2024.495" lifespan="3ms">
+  <receive>
+    <isomsg direction="incoming">
+      <!-- org.jpos.iso.packager.XMLPackager -->
+      <field id="0" value="0610"/>
+      <field id="2" value="2419-2014-8474"/>
+      <field id="4" value="693000"/>
+      <field id="10" value="7000"/>
+      <field id="11" value="Kiosk_GCASH"/>
+      <field id="12" value="09688532239"/>
+      <field id="13" value="Kiosk_GCASHMux"/>
+      <field id="14" value="ab123e679fb19a6fccc3a9fc8f300291d8277743"/>
+      <field id="15" value="13e643cd744c9299a24774f756dddd63cbec865d"/>
+      <field id="16" value="Kiosk_GCASH"/>
+      <field id="22" value="1"/>
+      <field id="23" value="2003"/>
+      <field id="26" value="10.9.40.3"/>
+      <field id="31" value="0019019973544"/>
+      <field id="32" value="SUCCESS"/>
+      <field id="33" value="Transaction created"/>
+      <field id="35" value="--------------------------------|This transaction is|non-refundable. For inquiries,|kindly call 2882 for mobile or|(02) 7392882 for landline.||ECPAY 24/7 SUPPORT:|02-76165851/|0917-72-ECPAY (0917-72-32729)|0919-08-ECPAY (0919-08-32729)|ecpay@7-eleven.com.ph"/>
+      <field id="36" value="APP: GCASH CASH IN Transaction"/>
+      <field id="49" value="{&quot;mobileNumber&quot;:&quot;09688532239&quot;, &quot;clientid&quot;:&quot;7eleven&quot;, &quot;password&quot;:&quot;7011&quot;}"/>
+      <field id="50" value="Y"/>
+      <field id="55" value="1.2.0.0"/>
+      <field id="57" value="9000000000004"/>
+      <field id="59" value="SALES"/>
+      <field id="60" value="0"/>
+      <field id="61" value="0"/>
+      <field id="62" value="N"/>
+    </isomsg>
+  </receive>
+</log>
+<log realm="channel/10.9.40.3:55670" at="Wed Jul 10 09:48:13 PST 2024.507" lifespan="1ms">
+  <send>
+    <isomsg>
+      <!-- org.jpos.iso.packager.XMLPackager -->
+      <field id="0" value="0610"/>
+      <field id="2" value="2419-2014-8474"/>
+      <field id="4" value="693000"/>
+      <field id="10" value="7000"/>
+      <field id="11" value="Kiosk_GCASH"/>
+      <field id="12" value="09688532239"/>
+      <field id="13" value="Kiosk_GCASHMux"/>
+      <field id="14" value="ab123e679fb19a6fccc3a9fc8f300291d8277743"/>
+      <field id="15" value="13e643cd744c9299a24774f756dddd63cbec865d"/>
+      <field id="16" value="Kiosk_GCASH"/>
+      <field id="22" value="1"/>
+      <field id="23" value="2003"/>
+      <field id="26" value="10.9.40.3"/>
+      <field id="31" value="0019019973544"/>
+      <field id="32" value="SUCCESS"/>
+      <field id="33" value="Transaction created"/>
+      <field id="35" value="--------------------------------|This transaction is|non-refundable. For inquiries,|kindly call 2882 for mobile or|(02) 7392882 for landline.||ECPAY 24/7 SUPPORT:|02-76165851/|0917-72-ECPAY (0917-72-32729)|0919-08-ECPAY (0919-08-32729)|ecpay@7-eleven.com.ph"/>
+      <field id="36" value="APP: GCASH CASH IN Transaction"/>
+      <field id="49" value="{&quot;mobileNumber&quot;:&quot;09688532239&quot;, &quot;clientid&quot;:&quot;7eleven&quot;, &quot;password&quot;:&quot;7011&quot;}"/>
+      <field id="50" value="Y"/>
+      <field id="55" value="1.2.0.0"/>
+      <field id="57" value="9000000000004"/>
+      <field id="59" value="SALES"/>
+      <field id="60" value="0"/>
+      <field id="61" value="0"/>
+      <field id="62" value="N"/>
+    </isomsg>
+  </send>
+</log>
+<log realm="channel/10.9.40.3:55676" at="Wed Jul 10 09:48:27 PST 2024.144" lifespan="78ms">
+  <receive>
+    <isomsg direction="incoming">
+      <!-- org.jpos.iso.packager.XMLPackager -->
+      <field id="0" value="0200"/>
+      <field id="2" value="2419-2014-8474"/>
+      <field id="4" value="693000"/>
+      <field id="5" value="20240710053946"/>
+      <field id="11" value="Kiosk_GCASH"/>
+      <field id="12" value="09688532239"/>
+      <field id="16" value="Kiosk_GCASH"/>
+      <field id="21" value="2003-1035408-1-LYF6L8V9"/>
+      <field id="22" value="1"/>
+      <field id="23" value="2003"/>
+      <field id="24" value="Orion"/>
+      <field id="25" value="1"/>
+      <field id="55" value="1.2.0.0"/>
+    </isomsg>
+  </receive>
+</log>
+<log realm="channel/192.168.18.24:10000" at="Wed Jul 10 09:48:27 PST 2024.148">
+  <send>
+    <isomsg>
+      <!-- org.jpos.iso.packager.XMLPackager -->
+      <field id="0" value="0200"/>
+      <field id="2" value="2419-2014-8474"/>
+      <field id="4" value="693000"/>
+      <field id="5" value="20240710053946"/>
+      <field id="11" value="Kiosk_GCASH"/>
+      <field id="12" value="09688532239"/>
+      <field id="16" value="Kiosk_GCASH"/>
+      <field id="21" value="2003-1035408-1-LYF6L8V9"/>
+      <field id="22" value="1"/>
+      <field id="23" value="2003"/>
+      <field id="24" value="Orion"/>
+      <field id="25" value="1"/>
+      <field id="26" value="10.9.40.3"/>
+      <field id="55" value="1.2.0.0"/>
+    </isomsg>
+  </send>
+</log>
+<log realm="channel/192.168.18.24:10000" at="Wed Jul 10 09:48:27 PST 2024.216" lifespan="7ms">
+  <receive>
+    <isomsg direction="incoming">
+      <!-- org.jpos.iso.packager.XMLPackager -->
+      <field id="0" value="0210"/>
+      <field id="2" value="2419-2014-8474"/>
+      <field id="3" value="20240710094827"/>
+      <field id="4" value="693000"/>
+      <field id="5" value="20240710053946"/>
+      <field id="9" value="428109095EF282"/>
+      <field id="10" value="7000"/>
+      <field id="11" value="Kiosk_GCASH"/>
+      <field id="12" value="09688532239"/>
+      <field id="13" value="Kiosk_GCASHMux"/>
+      <field id="14" value="ffb78321d00f18b02f3781c28e93c2f51c038ecc"/>
+      <field id="15" value="8ed01e6bc8bfd0d093d75aa32b2f79eb77d55364"/>
+      <field id="16" value="Kiosk_GCASH"/>
+      <field id="21" value="2003-1035408-1-LYF6L8V9"/>
+      <field id="22" value="1"/>
+      <field id="23" value="2003"/>
+      <field id="24" value="Orion"/>
+      <field id="25" value="1"/>
+      <field id="26" value="10.9.40.3"/>
+      <field id="32" value="SUCCESS"/>
+      <field id="35" value="--------------------------------|This transaction is|non-refundable. For inquiries,|kindly call 2882 for mobile or|(02) 7392882 for landline.||ECPAY 24/7 SUPPORT:|02-76165851/|0917-72-ECPAY (0917-72-32729)|0919-08-ECPAY (0919-08-32729)|ecpay@7-eleven.com.ph"/>
+      <field id="36" value="APP: GCASH CASH IN Transaction"/>
+      <field id="49" value="{&quot;mobileNumber&quot;:&quot;09688532239&quot;, &quot;clientid&quot;:&quot;7eleven&quot;, &quot;password&quot;:&quot;7011&quot;}"/>
+      <field id="50" value="Y"/>
+      <field id="55" value="1.2.0.0"/>
+      <field id="56" value="000"/>
+      <field id="57" value="9000000000004"/>
+      <field id="59" value="SALES"/>
+      <field id="62" value="N"/>
+    </isomsg>
+  </receive>
+</log>
+<log realm="channel/10.9.40.3:55676" at="Wed Jul 10 09:48:27 PST 2024.225">
+  <send>
+    <isomsg>
+      <!-- org.jpos.iso.packager.XMLPackager -->
+      <field id="0" value="0210"/>
+      <field id="2" value="2419-2014-8474"/>
+      <field id="3" value="20240710094827"/>
+      <field id="4" value="693000"/>
+      <field id="5" value="20240710053946"/>
+      <field id="9" value="428109095EF282"/>
+      <field id="10" value="7000"/>
+      <field id="11" value="Kiosk_GCASH"/>
+      <field id="12" value="09688532239"/>
+      <field id="13" value="Kiosk_GCASHMux"/>
+      <field id="14" value="ffb78321d00f18b02f3781c28e93c2f51c038ecc"/>
+      <field id="15" value="8ed01e6bc8bfd0d093d75aa32b2f79eb77d55364"/>
+      <field id="16" value="Kiosk_GCASH"/>
+      <field id="21" value="2003-1035408-1-LYF6L8V9"/>
+      <field id="22" value="1"/>
+      <field id="23" value="2003"/>
+      <field id="24" value="Orion"/>
+      <field id="25" value="1"/>
+      <field id="26" value="10.9.40.3"/>
+      <field id="32" value="SUCCESS"/>
+      <field id="35" value="--------------------------------|This transaction is|non-refundable. For inquiries,|kindly call 2882 for mobile or|(02) 7392882 for landline.||ECPAY 24/7 SUPPORT:|02-76165851/|0917-72-ECPAY (0917-72-32729)|0919-08-ECPAY (0919-08-32729)|ecpay@7-eleven.com.ph"/>
+      <field id="36" value="APP: GCASH CASH IN Transaction"/>
+      <field id="49" value="{&quot;mobileNumber&quot;:&quot;09688532239&quot;, &quot;clientid&quot;:&quot;7eleven&quot;, &quot;password&quot;:&quot;7011&quot;}"/>
+      <field id="50" value="Y"/>
+      <field id="55" value="1.2.0.0"/>
+      <field id="56" value="000"/>
+      <field id="57" value="9000000000004"/>
+      <field id="59" value="SALES"/>
+      <field id="62" value="N"/>
+    </isomsg>
+  </send>
+</log>
+<log realm="channel/10.9.40.3:55678" at="Wed Jul 10 09:48:39 PST 2024.984" lifespan="67ms">
+  <receive>
+    <isomsg direction="incoming">
+      <!-- org.jpos.iso.packager.XMLPackager -->
+      <field id="0" value="0240"/>
+      <field id="2" value="2419-2014-8474"/>
+      <field id="3" value="20240710094827"/>
+      <field id="4" value="700000"/>
+      <field id="5" value="20240710053946"/>
+      <field id="9" value="428109095EF282"/>
+      <field id="11" value="Kiosk_GCASH"/>
+      <field id="12" value="09688532239"/>
+      <field id="16" value="Kiosk_GCASH"/>
+      <field id="21" value="2003-1035408-1-LYF6L8V9"/>
+      <field id="22" value="1"/>
+      <field id="23" value="2003"/>
+      <field id="24" value="Orion"/>
+      <field id="25" value="1"/>
+      <field id="55" value="1.2.0.0"/>
+    </isomsg>
+  </receive>
+</log>
+<log realm="channel/10.9.40.3:55678" at="Wed Jul 10 09:48:39 PST 2024.985">
+  <send>
+    <isomsg>
+      <!-- org.jpos.iso.packager.XMLPackager -->
+      <field id="0" value="0250"/>
+      <field id="2" value="2419-2014-8474"/>
+      <field id="3" value="20240710094827"/>
+      <field id="4" value="700000"/>
+      <field id="5" value="20240710053946"/>
+      <field id="9" value="428109095EF282"/>
+      <field id="11" value="Kiosk_GCASH"/>
+      <field id="12" value="09688532239"/>
+      <field id="16" value="Kiosk_GCASH"/>
+      <field id="21" value="2003-1035408-1-LYF6L8V9"/>
+      <field id="22" value="1"/>
+      <field id="23" value="2003"/>
+      <field id="24" value="Orion"/>
+      <field id="25" value="1"/>
+      <field id="26" value="10.9.40.3"/>
+      <field id="32" value="SUCCESS"/>
+      <field id="33" value="Receipt Stamp received."/>
+      <field id="55" value="1.2.0.0"/>
+    </isomsg>
+  </send>
+</log>
+<log realm="channel/192.168.18.24:10000" at="Wed Jul 10 09:48:39 PST 2024.994">
+  <send>
+    <isomsg>
+      <!-- org.jpos.iso.packager.XMLPackager -->
+      <field id="0" value="0240"/>
+      <field id="2" value="2419-2014-8474"/>
+      <field id="3" value="20240710094827"/>
+      <field id="4" value="700000"/>
+      <field id="5" value="20240710053946"/>
+      <field id="9" value="428109095EF282"/>
+      <field id="11" value="Kiosk_GCASH"/>
+      <field id="12" value="09688532239"/>
+      <field id="16" value="Kiosk_GCASH"/>
+      <field id="21" value="2003-1035408-1-LYF6L8V9"/>
+      <field id="22" value="1"/>
+      <field id="23" value="2003"/>
+      <field id="24" value="Orion"/>
+      <field id="25" value="1"/>
+      <field id="26" value="10.9.40.3"/>
+      <field id="32" value=""/>
+      <field id="33" value=""/>
+      <field id="55" value="1.2.0.0"/>
+    </isomsg>
+  </send>
+</log>
+<log realm="channel/192.168.18.24:10000" at="Wed Jul 10 09:48:40 PST 2024.55" lifespan="86ms">
+  <receive>
+    <isomsg direction="incoming">
+      <!-- org.jpos.iso.packager.XMLPackager -->
+      <field id="0" value="0250"/>
+      <field id="2" value="2419-2014-8474"/>
+      <field id="3" value="20240710094827"/>
+      <field id="4" value="693000"/>
+      <field id="5" value="20240710053946"/>
+      <field id="9" value="428109095EF282"/>
+      <field id="10" value="7000"/>
+      <field id="11" value="Kiosk_GCASH"/>
+      <field id="12" value="09688532239"/>
+      <field id="13" value="Kiosk_GCASHMux"/>
+      <field id="14" value="ffb78321d00f18b02f3781c28e93c2f51c038ecc"/>
+      <field id="16" value="Kiosk_GCASH"/>
+      <field id="21" value="2003-1035408-1-LYF6L8V9"/>
+      <field id="22" value="1"/>
+      <field id="23" value="2003"/>
+      <field id="24" value="Orion"/>
+      <field id="25" value="1"/>
+      <field id="26" value="10.9.40.3"/>
+      <field id="32" value=""/>
+      <field id="33" value=""/>
+      <field id="35" value="--------------------------------|This transaction is|non-refundable. For inquiries,|kindly call 2882 for mobile or|(02) 7392882 for landline.||ECPAY 24/7 SUPPORT:|02-76165851/|0917-72-ECPAY (0917-72-32729)|0919-08-ECPAY (0919-08-32729)|ecpay@7-eleven.com.ph"/>
+      <field id="36" value="APP: GCASH CASH IN Transaction"/>
+      <field id="49" value="{&quot;mobileNumber&quot;:&quot;09688532239&quot;, &quot;clientid&quot;:&quot;7eleven&quot;, &quot;password&quot;:&quot;7011&quot;}"/>
+      <field id="50" value="Y"/>
+      <field id="55" value="1.2.0.0"/>
+      <field id="56" value="000"/>
+      <field id="57" value="9000000000004"/>
+      <field id="59" value="SALES"/>
+      <field id="62" value="N"/>
+    </isomsg>
+  </receive>
+</log>
+<log realm="channel/127.0.0.1:38668" at="Wed Jul 10 09:48:40 PST 2024.76" lifespan="240ms">
+  <receive>
+    <isomsg direction="incoming">
+      <!-- org.jpos.iso.packager.XMLPackager -->
+      <field id="0" value="0200"/>
+      <field id="2" value="2419-2014-8474"/>
+      <field id="3" value="20240710094827"/>
+      <field id="4" value="693000"/>
+      <field id="5" value="20240710053946"/>
+      <field id="9" value="428109095EF282"/>
+      <field id="10" value="7000"/>
+      <field id="11" value="Kiosk_GCASH"/>
+      <field id="12" value="09688532239"/>
+      <field id="13" value="Kiosk_GCASHMux"/>
+      <field id="14" value="ffb78321d00f18b02f3781c28e93c2f51c038ecc"/>
+      <field id="16" value="Kiosk_GCASH"/>
+      <field id="21" value="2003-1035408-1-LYF6L8V9"/>
+      <field id="22" value="1"/>
+      <field id="23" value="2003"/>
+      <field id="24" value="Orion"/>
+      <field id="25" value="1"/>
+      <field id="26" value="10.9.40.3"/>
+      <field id="32" value=""/>
+      <field id="33" value=""/>
+      <field id="35" value="--------------------------------|This transaction is|non-refundable. For inquiries,|kindly call 2882 for mobile or|(02) 7392882 for landline.||ECPAY 24/7 SUPPORT:|02-76165851/|0917-72-ECPAY (0917-72-32729)|0919-08-ECPAY (0919-08-32729)|ecpay@7-eleven.com.ph"/>
+      <field id="36" value="APP: GCASH CASH IN Transaction"/>
+      <field id="49" value="{&quot;mobileNumber&quot;:&quot;09688532239&quot;, &quot;clientid&quot;:&quot;7eleven&quot;, &quot;password&quot;:&quot;7011&quot;}"/>
+      <field id="50" value="Y"/>
+      <field id="55" value="1.2.0.0"/>
+      <field id="56" value="000"/>
+      <field id="57" value="9000000000004"/>
+      <field id="59" value="SALES"/>
+      <field id="62" value="N"/>
+    </isomsg>
+  </receive>
+</log>
+<log realm="channel/127.0.0.1:10081" at="Wed Jul 10 09:48:40 PST 2024.78" lifespan="3ms">
+  <send>
+    <isomsg>
+      <!-- org.jpos.iso.packager.XMLPackager -->
+      <field id="0" value="0200"/>
+      <field id="2" value="2419-2014-8474"/>
+      <field id="3" value="20240710094827"/>
+      <field id="4" value="693000"/>
+      <field id="5" value="20240710053946"/>
+      <field id="9" value="428109095EF282"/>
+      <field id="10" value="7000"/>
+      <field id="11" value="Kiosk_GCASH"/>
+      <field id="12" value="09688532239"/>
+      <field id="13" value="Kiosk_GCASHMux"/>
+      <field id="14" value="ffb78321d00f18b02f3781c28e93c2f51c038ecc"/>
+      <field id="16" value="Kiosk_GCASH"/>
+      <field id="21" value="2003-1035408-1-LYF6L8V9"/>
+      <field id="22" value="1"/>
+      <field id="23" value="2003"/>
+      <field id="24" value="Orion"/>
+      <field id="25" value="1"/>
+      <field id="26" value="10.9.40.3"/>
+      <field id="32" value=""/>
+      <field id="33" value=""/>
+      <field id="35" value="--------------------------------|This transaction is|non-refundable. For inquiries,|kindly call 2882 for mobile or|(02) 7392882 for landline.||ECPAY 24/7 SUPPORT:|02-76165851/|0917-72-ECPAY (0917-72-32729)|0919-08-ECPAY (0919-08-32729)|ecpay@7-eleven.com.ph"/>
+      <field id="36" value="APP: GCASH CASH IN Transaction"/>
+      <field id="49" value="{&quot;mobileNumber&quot;:&quot;09688532239&quot;, &quot;clientid&quot;:&quot;7eleven&quot;, &quot;password&quot;:&quot;7011&quot;}"/>
+      <field id="50" value="Y"/>
+      <field id="55" value="1.2.0.0"/>
+      <field id="56" value="000"/>
+      <field id="57" value="9000000000004"/>
+      <field id="59" value="SALES"/>
+      <field id="62" value="N"/>
+    </isomsg>
+  </send>
+</log>
+<log realm="request-listener" at="Wed Jul 10 09:48:40 PST 2024.81" lifespan="3ms">
+  <REQUEST payID="2419-2014-8474">
+    https://partner-blue-api.mynt.xyz/seveneleven/api/cashin?sevenConnectId=2419-2014-8474&type=CONFIRM&merchantRef=09688532239&amount=6930.00&token=ffb78321d00f18b02f3781c28e93c2f51c038ecc&payLoad=%7B%22mobileNumber%22%3A%2209688532239%22%2C+%22clientid%22%3A%227eleven%22%2C+%22password%22%3A%227011%22%7D&paymentDetails=%7B%22payID%22%3A%222419-2014-8474%22%2C+%22receiptNo%22%3A%221035408%22%2C+%22store%22%3A%222003%22%2C+%22pos%22%3A%221%22%2C+%22shift%22%3A%221%22%2C+%22bdate%22%3A%2220240710053946%22%7D
+  </REQUEST payID="2419-2014-8474">
+</log>
+<log realm="request-listener" at="Wed Jul 10 09:48:40 PST 2024.876" lifespan="15ms">
+  <RESPONSE payID="2419-2014-8474">
+
+?type=CONFIRM&merchantID=Kiosk_GCASH&merchantRef=09688532239&amount=6930&authCode=0019019973544&responseCode=SUCCESS&responseDesc=Success&token=46acf1a65facf6fb90aa24ff7adb7cd1c3a588f0
+  </RESPONSE payID="2419-2014-8474">
+</log>
+<log realm="request-listener" at="Wed Jul 10 09:48:40 PST 2024.876" lifespan="15ms">
+  <RESPONSE payID="2419-2014-8474">
+
+?type=CONFIRM&merchantID=Kiosk_GCASH&merchantRef=09688532239&amount=6930&authCode=0019019973544&responseCode=SUCCESS&responseDesc=Success&token=46acf1a65facf6fb90aa24ff7adb7cd1c3a588f0
+  </RESPONSE payID="2419-2014-8474">
+</log>
+<log realm="channel/127.0.0.1:10081" at="Wed Jul 10 09:48:40 PST 2024.882" lifespan="129ms">
+  <receive>
+    <isomsg direction="incoming">
+      <!-- org.jpos.iso.packager.XMLPackager -->
+      <field id="0" value="0210"/>
+      <field id="2" value="2419-2014-8474"/>
+      <field id="3" value="20240710094827"/>
+      <field id="4" value="693000"/>
+      <field id="5" value="20240710053946"/>
+      <field id="9" value="428109095EF282"/>
+      <field id="10" value="7000"/>
+      <field id="11" value="Kiosk_GCASH"/>
+      <field id="12" value="09688532239"/>
+      <field id="13" value="Kiosk_GCASHMux"/>
+      <field id="14" value="ffb78321d00f18b02f3781c28e93c2f51c038ecc"/>
+      <field id="15" value="46acf1a65facf6fb90aa24ff7adb7cd1c3a588f0"/>
+      <field id="16" value="Kiosk_GCASH"/>
+      <field id="21" value="2003-1035408-1-LYF6L8V9"/>
+      <field id="22" value="1"/>
+      <field id="23" value="2003"/>
+      <field id="24" value="Orion"/>
+      <field id="25" value="1"/>
+      <field id="26" value="10.9.40.3"/>
+      <field id="31" value="0019019973544"/>
+      <field id="32" value="SUCCESS"/>
+      <field id="33" value="Success"/>
+      <field id="35" value="--------------------------------|This transaction is|non-refundable. For inquiries,|kindly call 2882 for mobile or|(02) 7392882 for landline.||ECPAY 24/7 SUPPORT:|02-76165851/|0917-72-ECPAY (0917-72-32729)|0919-08-ECPAY (0919-08-32729)|ecpay@7-eleven.com.ph"/>
+      <field id="36" value="APP: GCASH CASH IN Transaction"/>
+      <field id="49" value="{&quot;mobileNumber&quot;:&quot;09688532239&quot;, &quot;clientid&quot;:&quot;7eleven&quot;, &quot;password&quot;:&quot;7011&quot;}"/>
+      <field id="50" value="Y"/>
+      <field id="55" value="1.2.0.0"/>
+      <field id="56" value="000"/>
+      <field id="57" value="9000000000004"/>
+      <field id="59" value="SALES"/>
+      <field id="62" value="N"/>
+    </isomsg>
+  </receive>
+</log>
+<log realm="channel/127.0.0.1:38668" at="Wed Jul 10 09:48:40 PST 2024.884" lifespan="8ms">
+  <send>
+    <isomsg>
+      <!-- org.jpos.iso.packager.XMLPackager -->
+      <field id="0" value="0210"/>
+      <field id="2" value="2419-2014-8474"/>
+      <field id="3" value="20240710094827"/>
+      <field id="4" value="693000"/>
+      <field id="5" value="20240710053946"/>
+      <field id="9" value="428109095EF282"/>
+      <field id="10" value="7000"/>
+      <field id="11" value="Kiosk_GCASH"/>
+      <field id="12" value="09688532239"/>
+      <field id="13" value="Kiosk_GCASHMux"/>
+      <field id="14" value="ffb78321d00f18b02f3781c28e93c2f51c038ecc"/>
+      <field id="15" value="46acf1a65facf6fb90aa24ff7adb7cd1c3a588f0"/>
+      <field id="16" value="Kiosk_GCASH"/>
+      <field id="21" value="2003-1035408-1-LYF6L8V9"/>
+      <field id="22" value="1"/>
+      <field id="23" value="2003"/>
+      <field id="24" value="Orion"/>
+      <field id="25" value="1"/>
+      <field id="26" value="10.9.40.3"/>
+      <field id="31" value="0019019973544"/>
+      <field id="32" value="SUCCESS"/>
+      <field id="33" value="Success"/>
+      <field id="35" value="--------------------------------|This transaction is|non-refundable. For inquiries,|kindly call 2882 for mobile or|(02) 7392882 for landline.||ECPAY 24/7 SUPPORT:|02-76165851/|0917-72-ECPAY (0917-72-32729)|0919-08-ECPAY (0919-08-32729)|ecpay@7-eleven.com.ph"/>
+      <field id="36" value="APP: GCASH CASH IN Transaction"/>
+      <field id="49" value="{&quot;mobileNumber&quot;:&quot;09688532239&quot;, &quot;clientid&quot;:&quot;7eleven&quot;, &quot;password&quot;:&quot;7011&quot;}"/>
+      <field id="50" value="Y"/>
+      <field id="55" value="1.2.0.0"/>
+      <field id="56" value="000"/>
+      <field id="57" value="9000000000004"/>
+      <field id="59" value="SALES"/>
+      <field id="62" value="N"/>
+    </isomsg>
+  </send>
+</log>
+<log realm="request-listener" at="Wed Jul 10 09:48:40 PST 2024.888" lifespan="2ms">
+  <SEND TO MERCHANT II>
+    *** Send To Merchant II: [Wed Jul 10 09:48:40 PST 2024 | 0200 | Kiosk_GCASH | 2419-2014-8474] *** : 0.821112523 seconds
+  </SEND TO MERCHANT II>
+</log>
+<log realm="channel/192.168.18.24:10000" at="Wed Jul 10 09:48:40 PST 2024.896">
+  <send>
+    <isomsg>
+      <!-- org.jpos.iso.packager.XMLPackager -->
+      <field id="0" value="0200"/>
+      <field id="2" value="2419-2014-8474"/>
+      <field id="3" value="20240710094827"/>
+      <field id="4" value="693000"/>
+      <field id="5" value="20240710053946"/>
+      <field id="9" value="428109095EF282"/>
+      <field id="10" value="7000"/>
+      <field id="11" value="Kiosk_GCASH"/>
+      <field id="12" value="09688532239"/>
+      <field id="13" value="Kiosk_GCASHMux"/>
+      <field id="14" value="ffb78321d00f18b02f3781c28e93c2f51c038ecc"/>
+      <field id="15" value="46acf1a65facf6fb90aa24ff7adb7cd1c3a588f0"/>
+      <field id="16" value="Kiosk_GCASH"/>
+      <field id="21" value="2003-1035408-1-LYF6L8V9"/>
+      <field id="22" value="1"/>
+      <field id="23" value="2003"/>
+      <field id="24" value="Orion"/>
+      <field id="25" value="1"/>
+      <field id="26" value="10.9.40.3"/>
+      <field id="31" value="0019019973544"/>
+      <field id="32" value="SUCCESS"/>
+      <field id="33" value="Success"/>
+      <field id="35" value="--------------------------------|This transaction is|non-refundable. For inquiries,|kindly call 2882 for mobile or|(02) 7392882 for landline.||ECPAY 24/7 SUPPORT:|02-76165851/|0917-72-ECPAY (0917-72-32729)|0919-08-ECPAY (0919-08-32729)|ecpay@7-eleven.com.ph"/>
+      <field id="36" value="APP: GCASH CASH IN Transaction"/>
+      <field id="49" value="{&quot;mobileNumber&quot;:&quot;09688532239&quot;, &quot;clientid&quot;:&quot;7eleven&quot;, &quot;password&quot;:&quot;7011&quot;}"/>
+      <field id="50" value="Y"/>
+      <field id="55" value="1.2.0.0"/>
+      <field id="56" value="000"/>
+      <field id="57" value="9000000000004"/>
+      <field id="59" value="SALES"/>
+      <field id="62" value="N"/>
+    </isomsg>
+  </send>
+</log>
+<log realm="channel/192.168.18.24:10000" at="Wed Jul 10 09:48:40 PST 2024.970" lifespan="14ms">
+  <receive>
+    <isomsg direction="incoming">
+      <!-- org.jpos.iso.packager.XMLPackager -->
+      <field id="0" value="0210"/>
+      <field id="2" value="2419-2014-8474"/>
+      <field id="3" value="20240710094840"/>
+      <field id="4" value="693000"/>
+      <field id="5" value="20240710053946"/>
+      <field id="9" value="428109095EF282"/>
+      <field id="10" value="7000"/>
+      <field id="11" value="Kiosk_GCASH"/>
+      <field id="12" value="09688532239"/>
+      <field id="13" value="Kiosk_GCASHMux"/>
+      <field id="14" value="ffb78321d00f18b02f3781c28e93c2f51c038ecc"/>
+      <field id="15" value="46acf1a65facf6fb90aa24ff7adb7cd1c3a588f0"/>
+      <field id="16" value="Kiosk_GCASH"/>
+      <field id="21" value="2003-1035408-1-LYF6L8V9"/>
+      <field id="22" value="1"/>
+      <field id="23" value="2003"/>
+      <field id="24" value="Orion"/>
+      <field id="25" value="1"/>
+      <field id="26" value="10.9.40.3"/>
+      <field id="31" value="0019019973544"/>
+      <field id="32" value="SUCCESS"/>
+      <field id="33" value="Success"/>
+      <field id="35" value="--------------------------------|This transaction is|non-refundable. For inquiries,|kindly call 2882 for mobile or|(02) 7392882 for landline.||ECPAY 24/7 SUPPORT:|02-76165851/|0917-72-ECPAY (0917-72-32729)|0919-08-ECPAY (0919-08-32729)|ecpay@7-eleven.com.ph"/>
+      <field id="36" value="APP: GCASH CASH IN Transaction"/>
+      <field id="49" value="{&quot;mobileNumber&quot;:&quot;09688532239&quot;, &quot;clientid&quot;:&quot;7eleven&quot;, &quot;password&quot;:&quot;7011&quot;}"/>
+      <field id="50" value="Y"/>
+      <field id="55" value="1.2.0.0"/>
+      <field id="56" value="7000"/>
+      <field id="57" value="9000000000004"/>
+      <field id="59" value="SALES"/>
+      <field id="62" value="N"/>
+    </isomsg>
+  </receive>
+</log>
