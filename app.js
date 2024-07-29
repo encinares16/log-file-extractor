@@ -16,7 +16,7 @@ do {
         break;
     } 
     console.log(`Incorrect 7connect reference '${sevenpay}'\n`)
-} while (!regex.reference.test(sevenpay) || ''); // console.log(regex.reference.test(sevenpay))
+} while (!regex.reference.test(sevenpay) || ''); 
 
 const file = prompt('Input file logs to extract: ');
 console.log(`\n7connect reference logs to extract: ${sevenpay}\n`)

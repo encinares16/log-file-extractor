@@ -4,11 +4,12 @@ import promptSync from 'prompt-sync';
 
 const prompt = promptSync();
 let folder;
-let logsFolder = `logs.${new Date().getMonth()}-${new Date().getDate()}-${new Date().getFullYear()}`;
+let today = `${new Date().getMonth() + 1}-${new Date().getDate()}-${new Date().getFullYear()}`;
+let logsFolder = `logs.${today}`;
 
 const createDirectory = () => {
 
-    console.log(`Create a directory:\n[1] New Folder\n[2] Create (logs.07-15-2024) Folder`);
+    console.log(`Create a directory:\n[1] New Folder\n[2] Create (${logsFolder}) Folder`);
     
     const directory = prompt('Choice: ');
 
@@ -29,7 +30,7 @@ const createDirectory = () => {
                     return console.log(`\n[DIRECTORY]: ${logsFolder} exist already!`);
                 }
             }
-            console.log(`\n[DIRECTORY] logs.07-15-2024 created successfully!\n`);
+            console.log(`\n[DIRECTORY] ${logsFolder} created successfully!\n`);
         })       
         folder = logsFolder 
     } else {
