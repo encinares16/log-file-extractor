@@ -1,4 +1,4 @@
-# 7connect Log File Extractor
+# 7connect Log Extractor
 
 This guide will walk you through the steps to clone a repository, install dependencies, and run the application.
 
