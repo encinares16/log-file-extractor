@@ -1,0 +1,348 @@
+<log realm="channel/10.9.13.52:33720" at="Thu Aug 08 00:00:00 PST 2024.588">
+  <receive>
+    <isomsg direction="incoming">
+      <!-- org.jpos.iso.packager.XMLPackager -->
+      <field id="0" value="0240"/>
+      <field id="2" value="2422-0069-8133"/>
+      <field id="3" value="20240807235953"/>
+      <field id="4" value="100000"/>
+      <field id="5" value="20240807060200"/>
+      <field id="9" value="1413E5A2C55DBE7"/>
+      <field id="11" value="Kiosk_GCASH"/>
+      <field id="12" value="09064609416"/>
+      <field id="16" value="Kiosk_GCASH"/>
+      <field id="21" value="3302-1112278-1-LZK1C2AN"/>
+      <field id="22" value="1"/>
+      <field id="23" value="3302"/>
+      <field id="24" value="Dumanjug Central"/>
+      <field id="25" value="3"/>
+      <field id="55" value="1.2.0.0"/>
+    </isomsg>
+  </receive>
+</log>
+<log realm="channel/10.9.13.52:33720" at="Thu Aug 08 00:00:00 PST 2024.589">
+  <send>
+    <isomsg>
+      <!-- org.jpos.iso.packager.XMLPackager -->
+      <field id="0" value="0250"/>
+      <field id="2" value="2422-0069-8133"/>
+      <field id="3" value="20240807235953"/>
+      <field id="4" value="100000"/>
+      <field id="5" value="20240807060200"/>
+      <field id="9" value="1413E5A2C55DBE7"/>
+      <field id="11" value="Kiosk_GCASH"/>
+      <field id="12" value="09064609416"/>
+      <field id="16" value="Kiosk_GCASH"/>
+      <field id="21" value="3302-1112278-1-LZK1C2AN"/>
+      <field id="22" value="1"/>
+      <field id="23" value="3302"/>
+      <field id="24" value="Dumanjug Central"/>
+      <field id="25" value="3"/>
+      <field id="26" value="10.9.13.52"/>
+      <field id="32" value="SUCCESS"/>
+      <field id="33" value="Receipt Stamp received."/>
+      <field id="55" value="1.2.0.0"/>
+    </isomsg>
+  </send>
+</log>
+<log realm="channel/192.168.18.24:10000" at="Thu Aug 08 00:00:00 PST 2024.599">
+  <send>
+    <isomsg>
+      <!-- org.jpos.iso.packager.XMLPackager -->
+      <field id="0" value="0240"/>
+      <field id="2" value="2422-0069-8133"/>
+      <field id="3" value="20240807235953"/>
+      <field id="4" value="100000"/>
+      <field id="5" value="20240807060200"/>
+      <field id="9" value="1413E5A2C55DBE7"/>
+      <field id="11" value="Kiosk_GCASH"/>
+      <field id="12" value="09064609416"/>
+      <field id="16" value="Kiosk_GCASH"/>
+      <field id="21" value="3302-1112278-1-LZK1C2AN"/>
+      <field id="22" value="1"/>
+      <field id="23" value="3302"/>
+      <field id="24" value="Dumanjug Central"/>
+      <field id="25" value="3"/>
+      <field id="26" value="10.9.13.52"/>
+      <field id="32" value=""/>
+      <field id="33" value=""/>
+      <field id="55" value="1.2.0.0"/>
+    </isomsg>
+  </send>
+</log>
+<log realm="channel/192.168.18.24:10000" at="Thu Aug 08 00:00:00 PST 2024.666" lifespan="84ms">
+  <receive>
+    <isomsg direction="incoming">
+      <!-- org.jpos.iso.packager.XMLPackager -->
+      <field id="0" value="0250"/>
+      <field id="2" value="2422-0069-8133"/>
+      <field id="3" value="20240807235953"/>
+      <field id="4" value="99000"/>
+      <field id="5" value="20240807060200"/>
+      <field id="9" value="1413E5A2C55DBE7"/>
+      <field id="10" value="1000"/>
+      <field id="11" value="Kiosk_GCASH"/>
+      <field id="12" value="09064609416"/>
+      <field id="13" value="Kiosk_GCASHMux"/>
+      <field id="14" value="b6e10e5643d60833b330e2ee210a6bb18c0a02fa"/>
+      <field id="16" value="Kiosk_GCASH"/>
+      <field id="21" value="3302-1112278-1-LZK1C2AN"/>
+      <field id="22" value="1"/>
+      <field id="23" value="3302"/>
+      <field id="24" value="Dumanjug Central"/>
+      <field id="25" value="3"/>
+      <field id="26" value="10.9.13.52"/>
+      <field id="32" value=""/>
+      <field id="33" value=""/>
+      <field id="35" value="*--------------------------------|Effective May 17, 2021, 7-Eleven charges a 1% convenience fee on all GCash Cash In transactions.|    This transaction is non-    |   refundable. For inquiries,   | kindly call 2882 for mobile or |(02) 7392882 for landline."/>
+      <field id="36" value="GCASH CASH IN Transaction"/>
+      <field id="49" value="{&quot;mobileNumber&quot;:&quot;09064609416&quot;,&quot;clientid&quot;:&quot;7eleven&quot;,&quot;password&quot;:&quot;7011&quot;}"/>
+      <field id="50" value="Y"/>
+      <field id="55" value="1.2.0.0"/>
+      <field id="56" value="000"/>
+      <field id="57" value="Kiosk_GCASH"/>
+      <field id="59" value="SALES"/>
+      <field id="62" value="N"/>
+    </isomsg>
+  </receive>
+</log>
+<log realm="channel/127.0.0.1:10081" at="Thu Aug 08 00:00:00 PST 2024.683">
+  <send>
+    <isomsg>
+      <!-- org.jpos.iso.packager.XMLPackager -->
+      <field id="0" value="0200"/>
+      <field id="2" value="2422-0069-8133"/>
+      <field id="3" value="20240807235953"/>
+      <field id="4" value="99000"/>
+      <field id="5" value="20240807060200"/>
+      <field id="9" value="1413E5A2C55DBE7"/>
+      <field id="10" value="1000"/>
+      <field id="11" value="Kiosk_GCASH"/>
+      <field id="12" value="09064609416"/>
+      <field id="13" value="Kiosk_GCASHMux"/>
+      <field id="14" value="b6e10e5643d60833b330e2ee210a6bb18c0a02fa"/>
+      <field id="16" value="Kiosk_GCASH"/>
+      <field id="21" value="3302-1112278-1-LZK1C2AN"/>
+      <field id="22" value="1"/>
+      <field id="23" value="3302"/>
+      <field id="24" value="Dumanjug Central"/>
+      <field id="25" value="3"/>
+      <field id="26" value="10.9.13.52"/>
+      <field id="32" value=""/>
+      <field id="33" value=""/>
+      <field id="35" value="*--------------------------------|Effective May 17, 2021, 7-Eleven charges a 1% convenience fee on all GCash Cash In transactions.|    This transaction is non-    |   refundable. For inquiries,   | kindly call 2882 for mobile or |(02) 7392882 for landline."/>
+      <field id="36" value="GCASH CASH IN Transaction"/>
+      <field id="49" value="{&quot;mobileNumber&quot;:&quot;09064609416&quot;,&quot;clientid&quot;:&quot;7eleven&quot;,&quot;password&quot;:&quot;7011&quot;}"/>
+      <field id="50" value="Y"/>
+      <field id="55" value="1.2.0.0"/>
+      <field id="56" value="000"/>
+      <field id="57" value="Kiosk_GCASH"/>
+      <field id="59" value="SALES"/>
+      <field id="62" value="N"/>
+    </isomsg>
+  </send>
+</log>
+<log realm="channel/127.0.0.1:39532" at="Thu Aug 08 00:00:00 PST 2024.685" lifespan="87ms">
+  <receive>
+    <isomsg direction="incoming">
+      <!-- org.jpos.iso.packager.XMLPackager -->
+      <field id="0" value="0200"/>
+      <field id="2" value="2422-0069-8133"/>
+      <field id="3" value="20240807235953"/>
+      <field id="4" value="99000"/>
+      <field id="5" value="20240807060200"/>
+      <field id="9" value="1413E5A2C55DBE7"/>
+      <field id="10" value="1000"/>
+      <field id="11" value="Kiosk_GCASH"/>
+      <field id="12" value="09064609416"/>
+      <field id="13" value="Kiosk_GCASHMux"/>
+      <field id="14" value="b6e10e5643d60833b330e2ee210a6bb18c0a02fa"/>
+      <field id="16" value="Kiosk_GCASH"/>
+      <field id="21" value="3302-1112278-1-LZK1C2AN"/>
+      <field id="22" value="1"/>
+      <field id="23" value="3302"/>
+      <field id="24" value="Dumanjug Central"/>
+      <field id="25" value="3"/>
+      <field id="26" value="10.9.13.52"/>
+      <field id="32" value=""/>
+      <field id="33" value=""/>
+      <field id="35" value="*--------------------------------|Effective May 17, 2021, 7-Eleven charges a 1% convenience fee on all GCash Cash In transactions.|    This transaction is non-    |   refundable. For inquiries,   | kindly call 2882 for mobile or |(02) 7392882 for landline."/>
+      <field id="36" value="GCASH CASH IN Transaction"/>
+      <field id="49" value="{&quot;mobileNumber&quot;:&quot;09064609416&quot;,&quot;clientid&quot;:&quot;7eleven&quot;,&quot;password&quot;:&quot;7011&quot;}"/>
+      <field id="50" value="Y"/>
+      <field id="55" value="1.2.0.0"/>
+      <field id="56" value="000"/>
+      <field id="57" value="Kiosk_GCASH"/>
+      <field id="59" value="SALES"/>
+      <field id="62" value="N"/>
+    </isomsg>
+  </receive>
+</log>
+<log realm="request-listener" at="Thu Aug 08 00:00:00 PST 2024.686">
+  <REQUEST payID="2422-0069-8133">
+    https://partner-blue-api.mynt.xyz/seveneleven/api/cashin?sevenConnectId=2422-0069-8133&type=CONFIRM&merchantRef=09064609416&amount=990.00&token=b6e10e5643d60833b330e2ee210a6bb18c0a02fa&payLoad=%7B%22mobileNumber%22%3A%2209064609416%22%2C%22clientid%22%3A%227eleven%22%2C%22password%22%3A%227011%22%7D&paymentDetails=%7B%22payID%22%3A%222422-0069-8133%22%2C+%22receiptNo%22%3A%221112278%22%2C+%22store%22%3A%223302%22%2C+%22pos%22%3A%221%22%2C+%22shift%22%3A%223%22%2C+%22bdate%22%3A%2220240807060200%22%7D
+  </REQUEST payID="2422-0069-8133">
+</log>
+<log realm="request-listener" at="Thu Aug 08 00:00:02 PST 2024.589">
+  <RESPONSE payID="2422-0069-8133">
+      
+?type=CONFIRM&merchantID=Kiosk_GCASH&merchantRef=09064609416&amount=990&authCode=6019800888499&responseCode=SUCCESS&responseDesc=Success&token=cc923d8b3acfca68796433d67bdcbf4cd102dccf
+  </RESPONSE payID="2422-0069-8133">
+</log>
+<log realm="channel/127.0.0.1:39532" at="Thu Aug 08 00:00:02 PST 2024.590" lifespan="1ms">
+  <send>
+    <isomsg>
+      <!-- org.jpos.iso.packager.XMLPackager -->
+      <field id="0" value="0210"/>
+      <field id="2" value="2422-0069-8133"/>
+      <field id="3" value="20240807235953"/>
+      <field id="4" value="99000"/>
+      <field id="5" value="20240807060200"/>
+      <field id="9" value="1413E5A2C55DBE7"/>
+      <field id="10" value="1000"/>
+      <field id="11" value="Kiosk_GCASH"/>
+      <field id="12" value="09064609416"/>
+      <field id="13" value="Kiosk_GCASHMux"/>
+      <field id="14" value="b6e10e5643d60833b330e2ee210a6bb18c0a02fa"/>
+      <field id="15" value="cc923d8b3acfca68796433d67bdcbf4cd102dccf"/>
+      <field id="16" value="Kiosk_GCASH"/>
+      <field id="21" value="3302-1112278-1-LZK1C2AN"/>
+      <field id="22" value="1"/>
+      <field id="23" value="3302"/>
+      <field id="24" value="Dumanjug Central"/>
+      <field id="25" value="3"/>
+      <field id="26" value="10.9.13.52"/>
+      <field id="31" value="6019800888499"/>
+      <field id="32" value="SUCCESS"/>
+      <field id="33" value="Success"/>
+      <field id="35" value="*--------------------------------|Effective May 17, 2021, 7-Eleven charges a 1% convenience fee on all GCash Cash In transactions.|    This transaction is non-    |   refundable. For inquiries,   | kindly call 2882 for mobile or |(02) 7392882 for landline."/>
+      <field id="36" value="GCASH CASH IN Transaction"/>
+      <field id="49" value="{&quot;mobileNumber&quot;:&quot;09064609416&quot;,&quot;clientid&quot;:&quot;7eleven&quot;,&quot;password&quot;:&quot;7011&quot;}"/>
+      <field id="50" value="Y"/>
+      <field id="55" value="1.2.0.0"/>
+      <field id="56" value="000"/>
+      <field id="57" value="Kiosk_GCASH"/>
+      <field id="59" value="SALES"/>
+      <field id="62" value="N"/>
+    </isomsg>
+  </send>
+</log>
+<log realm="channel/127.0.0.1:10081" at="Thu Aug 08 00:00:02 PST 2024.591" lifespan="3ms">
+  <receive>
+    <isomsg direction="incoming">
+      <!-- org.jpos.iso.packager.XMLPackager -->
+      <field id="0" value="0210"/>
+      <field id="2" value="2422-0069-8133"/>
+      <field id="3" value="20240807235953"/>
+      <field id="4" value="99000"/>
+      <field id="5" value="20240807060200"/>
+      <field id="9" value="1413E5A2C55DBE7"/>
+      <field id="10" value="1000"/>
+      <field id="11" value="Kiosk_GCASH"/>
+      <field id="12" value="09064609416"/>
+      <field id="13" value="Kiosk_GCASHMux"/>
+      <field id="14" value="b6e10e5643d60833b330e2ee210a6bb18c0a02fa"/>
+      <field id="15" value="cc923d8b3acfca68796433d67bdcbf4cd102dccf"/>
+      <field id="16" value="Kiosk_GCASH"/>
+      <field id="21" value="3302-1112278-1-LZK1C2AN"/>
+      <field id="22" value="1"/>
+      <field id="23" value="3302"/>
+      <field id="24" value="Dumanjug Central"/>
+      <field id="25" value="3"/>
+      <field id="26" value="10.9.13.52"/>
+      <field id="31" value="6019800888499"/>
+      <field id="32" value="SUCCESS"/>
+      <field id="33" value="Success"/>
+      <field id="35" value="*--------------------------------|Effective May 17, 2021, 7-Eleven charges a 1% convenience fee on all GCash Cash In transactions.|    This transaction is non-    |   refundable. For inquiries,   | kindly call 2882 for mobile or |(02) 7392882 for landline."/>
+      <field id="36" value="GCASH CASH IN Transaction"/>
+      <field id="49" value="{&quot;mobileNumber&quot;:&quot;09064609416&quot;,&quot;clientid&quot;:&quot;7eleven&quot;,&quot;password&quot;:&quot;7011&quot;}"/>
+      <field id="50" value="Y"/>
+      <field id="55" value="1.2.0.0"/>
+      <field id="56" value="000"/>
+      <field id="57" value="Kiosk_GCASH"/>
+      <field id="59" value="SALES"/>
+      <field id="62" value="N"/>
+    </isomsg>
+  </receive>
+</log>
+<log realm="request-listener" at="Thu Aug 08 00:00:02 PST 2024.598">
+  <SEND TO MERCHANT II>
+    *** Send To Merchant II: [Thu Aug 08 00:00:02 PST 2024 | 0200 | Kiosk_GCASH | 2422-0069-8133] *** : 1.9200997290000001 seconds
+  </SEND TO MERCHANT II>
+</log>
+<log realm="channel/192.168.18.24:10000" at="Thu Aug 08 00:00:02 PST 2024.610">
+  <send>
+    <isomsg>
+      <!-- org.jpos.iso.packager.XMLPackager -->
+      <field id="0" value="0200"/>
+      <field id="2" value="2422-0069-8133"/>
+      <field id="3" value="20240807235953"/>
+      <field id="4" value="99000"/>
+      <field id="5" value="20240807060200"/>
+      <field id="9" value="1413E5A2C55DBE7"/>
+      <field id="10" value="1000"/>
+      <field id="11" value="Kiosk_GCASH"/>
+      <field id="12" value="09064609416"/>
+      <field id="13" value="Kiosk_GCASHMux"/>
+      <field id="14" value="b6e10e5643d60833b330e2ee210a6bb18c0a02fa"/>
+      <field id="15" value="cc923d8b3acfca68796433d67bdcbf4cd102dccf"/>
+      <field id="16" value="Kiosk_GCASH"/>
+      <field id="21" value="3302-1112278-1-LZK1C2AN"/>
+      <field id="22" value="1"/>
+      <field id="23" value="3302"/>
+      <field id="24" value="Dumanjug Central"/>
+      <field id="25" value="3"/>
+      <field id="26" value="10.9.13.52"/>
+      <field id="31" value="6019800888499"/>
+      <field id="32" value="SUCCESS"/>
+      <field id="33" value="Success"/>
+      <field id="35" value="*--------------------------------|Effective May 17, 2021, 7-Eleven charges a 1% convenience fee on all GCash Cash In transactions.|    This transaction is non-    |   refundable. For inquiries,   | kindly call 2882 for mobile or |(02) 7392882 for landline."/>
+      <field id="36" value="GCASH CASH IN Transaction"/>
+      <field id="49" value="{&quot;mobileNumber&quot;:&quot;09064609416&quot;,&quot;clientid&quot;:&quot;7eleven&quot;,&quot;password&quot;:&quot;7011&quot;}"/>
+      <field id="50" value="Y"/>
+      <field id="55" value="1.2.0.0"/>
+      <field id="56" value="000"/>
+      <field id="57" value="Kiosk_GCASH"/>
+      <field id="59" value="SALES"/>
+      <field id="62" value="N"/>
+    </isomsg>
+  </send>
+</log>
+<log realm="channel/192.168.18.24:10000" at="Thu Aug 08 00:00:02 PST 2024.679" lifespan="26ms">
+  <receive>
+    <isomsg direction="incoming">
+      <!-- org.jpos.iso.packager.XMLPackager -->
+      <field id="0" value="0210"/>
+      <field id="2" value="2422-0069-8133"/>
+      <field id="3" value="20240808000002"/>
+      <field id="4" value="99000"/>
+      <field id="5" value="20240807060200"/>
+      <field id="9" value="1413E5A2C55DBE7"/>
+      <field id="10" value="1000"/>
+      <field id="11" value="Kiosk_GCASH"/>
+      <field id="12" value="09064609416"/>
+      <field id="13" value="Kiosk_GCASHMux"/>
+      <field id="14" value="b6e10e5643d60833b330e2ee210a6bb18c0a02fa"/>
+      <field id="15" value="cc923d8b3acfca68796433d67bdcbf4cd102dccf"/>
+      <field id="16" value="Kiosk_GCASH"/>
+      <field id="21" value="3302-1112278-1-LZK1C2AN"/>
+      <field id="22" value="1"/>
+      <field id="23" value="3302"/>
+      <field id="24" value="Dumanjug Central"/>
+      <field id="25" value="3"/>
+      <field id="26" value="10.9.13.52"/>
+      <field id="31" value="6019800888499"/>
+      <field id="32" value="SUCCESS"/>
+      <field id="33" value="Success"/>
+      <field id="35" value="*--------------------------------|Effective May 17, 2021, 7-Eleven charges a 1% convenience fee on all GCash Cash In transactions.|    This transaction is non-    |   refundable. For inquiries,   | kindly call 2882 for mobile or |(02) 7392882 for landline."/>
+      <field id="36" value="GCASH CASH IN Transaction"/>
+      <field id="49" value="{&quot;mobileNumber&quot;:&quot;09064609416&quot;,&quot;clientid&quot;:&quot;7eleven&quot;,&quot;password&quot;:&quot;7011&quot;}"/>
+      <field id="50" value="Y"/>
+      <field id="55" value="1.2.0.0"/>
+      <field id="56" value="1000"/>
+      <field id="57" value="Kiosk_GCASH"/>
+      <field id="59" value="SALES"/>
+      <field id="62" value="N"/>
+    </isomsg>
+  </receive>
+</log>
