@@ -60,8 +60,13 @@ Then input,
 Enter 7connect reference: 2422-0069-8133
 Input log file to extract: q2.2024-08-08.log
 Create new directory, choice: 2
+View transaction logs, choice: 1
 ```
 
+
+Screenshot Guide
+
+![steps](guide/step-guide.png)
 
 
 
